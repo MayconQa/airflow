@@ -33,3 +33,9 @@ O Airflow foi desenvolvido pelo Airbnb e depois se tornou um projeto de código 
 **Excemplo Simples:**
 
 ![Código simples](img/codigo_simples.png)
+
+## 1.2.1 Dags
+
+**DAG** (Directed Acyclic Graph) é o conceito central do Airflow, reunindo tarefas, organizadas com dependências e relacionamentos para dizer como elas devem ser executadas.<br>
+Aqui está um exemplo básico de DAG:
+![Código simples](img/basic-dag.png)
