@@ -29,3 +29,7 @@ O Airflow foi desenvolvido pelo Airbnb e depois se tornou um projeto de código 
 - **Executor:** Gerencia como as tarefas são executadas (pode ser local, Celery, Kubernetes etc.).
 
 - **Web UI:** Painel para visualização e gerenciamento dos DAGs e tarefas.
+
+**Excemplo Simples:**
+
+![Código simples](img/codigo_simples.png)
