@@ -15,3 +15,12 @@ task2 = TriggerDagRunOperator(task_id='tsk2', trigger_dag_id="dag-run-dag2", dag
 
 task1 >> task2 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+>>>>>>> 88fc376 (subindo o projeto inteiro)
