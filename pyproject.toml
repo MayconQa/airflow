@@ -3,14 +3,13 @@ name = "airflow"
 version = "1.0"
 description = "Projeto de airflow"
 authors = [
-    {name = "maycon"}
+    { name = "maycon" }
 ]
-license = {text = "ok"}
+license = { text = "ok" }
 readme = "README.md"
-requires-python = "1"
+requires-python = ">=3.8,<3.13"
 dependencies = [
 ]
-
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
