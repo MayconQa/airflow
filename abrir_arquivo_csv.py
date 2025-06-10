@@ -41,5 +41,7 @@ print_starting = BashOperator(task_id='starting',
 CSVJson = PythonOperator(task_id='convertCSVtoJson',
                         python_callable=csv_to_json)
 
+print_starting >> CSVJson
+
 
 
